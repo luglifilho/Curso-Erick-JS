@@ -1,12 +1,12 @@
-const nome = "Super man"
-let idade = 100
-let poder = " super força"
+const name = "Super man"
+let age = 100
+let power = " super força"
 
 
 poder = "rico"
 
 console.log(
-    `Nome: ${nome}
-    idade: ${idade}
-    poder: ${poder}`
+    `Nome: ${name}
+    idade: ${age}
+    poder: ${power}`
 )
