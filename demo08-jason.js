@@ -28,7 +28,7 @@ const pessoa = {
 
 //const novoObj = Object.assign(heroi, pessoa)
 
-pessoa.forca = 200
+pessoa.forca = 500
 
 const novoObj = Object.assign(heroi, pessoa)
 delete novoObj.nome
