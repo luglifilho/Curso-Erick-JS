@@ -23,7 +23,7 @@ console.log(Object.values(heroi))
 //juntar dois objetos
 
 const pessoa = {
-    tamanho : '10 metros'
+    tamanho : '15 metros'
 }
 
 //const novoObj = Object.assign(heroi, pessoa)
