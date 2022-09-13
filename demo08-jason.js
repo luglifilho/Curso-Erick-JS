@@ -1,10 +1,10 @@
 const heroi = {
-nome : 'Flash',
+name : 'Flash',
 idade : 100,
 sexo: 'masculino'
 }
 
-console.log('nome:',heroi.nome)
+console.log('name:',heroi.name)
 console.log("idade:", heroi['idade'])
 console.log('nao existe:', heroi.naoExiste)
 
@@ -31,7 +31,7 @@ const pessoa = {
 pessoa.forca = 500
 
 const novoObj = Object.assign(heroi, pessoa)
-delete novoObj.nome
+delete novoObj.name
 
 console.log(novoObj)
 
